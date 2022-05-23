@@ -1,0 +1,14 @@
+body{
+    background-image: url(assets/memphis.jpg);
+    background-color: #cccccc;
+    background-size: cover;}
+
+main{
+    display: flex;
+}
+
+section{
+   color: black;
+   background-color: white;
+   
+}
