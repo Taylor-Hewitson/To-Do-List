@@ -19,6 +19,12 @@ main{
     z-index: 4;
     
 }
+.social-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5px;
+}
 
 button{
     color: #ff50e8;
@@ -44,4 +50,5 @@ button{
 footer{
     color: black;
     padding: 20px;
+    text-align: center;
 }
